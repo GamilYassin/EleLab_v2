@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name EleLab_v2_Frontpanel_a-rescue)(type Legacy)(uri ${KIPRJMOD}/EleLab_v2_Frontpanel_a-rescue.lib)(options "")(descr ""))
+)
